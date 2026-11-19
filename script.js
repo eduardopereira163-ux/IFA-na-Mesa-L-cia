@@ -1,100 +1,158 @@
 const bancoDeReceitas = {
-  "lasanha-bolonhesa": {
-    titulo: "Lasanha à Bolonhesa",
-    imagem: "img/lasanha.png",
-    aluno: "João Silva",
-    turma: "3º Ano B",
-    ingredientes: "500g de massa de lasanha, 500g de carne moída, 2 sachês de molho de tomate, 300g de queijo mussarela...",
-    modoPreparo: "Refogue a carne moída com temperos e adicione o molho. Em uma travessa, intercale camadas de molho, massa e queijo. Leve ao forno por 30 minutos."
+ "torta-saudavel-de-morango-com-aveia": {
+    titulo: "Torta saudável de morango com aveia",
+    imagem: "img_Comidas/Yasmin Damasceno Cordova 1ªserie1.png",
+    aluno: "Yasmin Damasceno Cordova",
+    turma: "1ª Série 1",
+    ingredientes: "Para a massa: 1 xícara e meia de farinha de aveia, 2 colheres de sopa de óleo de coco, 1 banana madura amassada, 2 colheres de sopa de água. Para o recheio: 1 pote de iogurte natural (170 g), 1 xícara de morangos picados, 2 colheres de sopa de mel. Para decorar: morangos inteiros ou cortados em fatias.",
+    modoPreparo: "Em uma tigela, misture a farinha de aveia, o óleo de coco, a banana amassada e a água até formar uma massa. Coloque a massa em uma forma pequena, espalhando pelo fundo e pelas laterais. Leve ao forno preaquecido a 180 °C por aproximadamente 20 minutos. Retire do forno e espere esfriar. Em outro recipiente, misture o iogurte natural com o mel e os morangos picados. Coloque o recheio sobre a massa já fria. Decore com morangos cortados. Leve à geladeira por aproximadamente 2 horas antes de servir."
   },
-  "bolo-cenoura": {
-    titulo: "Bolo de cenoura",
-    imagem: "img/bolo-de-cenoura.png",
-    aluno: "Maria Souza",
-    turma: "2º Ano A",
-    ingredientes: "3 cenouras médias, 4 ovos, 1 xícara de óleo, 2 xícaras de açúcar, 2 e 1/2 xícaras de farinha de trigo...",
-    modoPreparo: "Bata as cenouras, os ovos e o óleo no liquidificador. Misture com os ingredientes secos e asse por 40 minutos a 180°C."
+  
+  "salada-de-manga": {
+    titulo: "Salada de manga",
+    imagem: "img_Comidas/2°1 Larissa Dos Santos De Oliveira.png",
+    aluno: "Larissa Dos Santos De Oliveira",
+    turma: "2º Ano 1",
+    ingredientes: "1 manga média, 4 folhas de alface, 1 tomate grande, salsinha picada a gosto, cebolinha verde picada a gosto, sal a gosto, vinagre de álcool, óleo ou azeite, Sazón – Tempero Sabores do Nordeste.",
+    modoPreparo: "Lave bem todos os ingredientes. Descasque a manga e corte-a em cubos. Corte o tomate e a alface e pique os temperos. Coloque todos os ingredientes em uma tigela. Acrescente os temperos: sal, óleo ou azeite, vinagre e Sazón. Com o auxílio de uma colher, misture tudo delicadamente. Agora é só servir. Rendimento: 2 porções."
   },
-  "sopa-feijao": {
-    titulo: "Sopa De Feijão",
-    imagem: "img/sopa-feijao.png",
-    aluno: "Leandro Carvalho",
-    turma: "3º Ano B",
-    ingredientes: "3 xícaras de água, 1 batata, 2 tomates picados, sal e pimenta, 3 xícaras de feijão",
-    modoPreparo: "Bater o feijão, a água e o tomate no liquidificador. Colocar o feijão batido e a batata em uma panela e cozinhar, até amaciar a batata. Se ficar muito grosso, acrescentar mais água. Provar e acertar o sal, se necessário."
+
+   "brownie-saudavel-de-aveia-e-cacau": {
+    titulo: "Brownie saudável de aveia e cacau",
+    imagem: "img_Comidas/Alessandra Andrade Rosa do 3° ano 1.jpg",
+    aluno: "Alessandra Andrade Rosa",
+    turma: "3º Ano 1",
+    ingredientes: "2 ovos, 1 xícara de farinha de aveia, 1/2 xícara de cacau em pó 100%, 1/2 xícara de açúcar mascavo, 1/2 xícara de leite, 2 colheres de sopa de óleo de coco, 1 colher de chá de fermento químico em pó.",
+    modoPreparo: "Preaqueça o forno a 180 °C e unte uma forma pequena com um pouco de óleo de coco. Em uma tigela, misture bem os ovos com o açúcar mascavo. Acrescente o leite e o óleo de coco e mexa até incorporar. Adicione a farinha de aveia e o cacau em pó, misturando até formar uma massa homogênea. Por último, acrescente o fermento em pó e mexa delicadamente. Despeje a massa na forma untada. Leve ao forno preaquecido a 180 °C por aproximadamente 20 a 25 minutos. Retire do forno, aguarde esfriar e corte em quadradinhos para servir."
   },
-  "cafe-cremoso": {
-    titulo: "Café Cremoso",
-    imagem: "img/cafe-cremoso.png",
-    aluno: "Ceasar Cohen",
-    turma: "3º Ano B",
-    ingredientes: "1 xícara de água, 2 xícaras de açúcar, 50g de café solúvel",
-    modoPreparo: "Junte todos os ingredientes e bata na batedeira durante 15 minutos até ficar um creme. Guarde no congelador e sirva misturado com leite ou café quente."
+  "muffin-de-maca-com-aveia-e-canela": {
+    titulo: "Muffin de maçã com aveia e canela",
+    imagem: "img_Comidas/Alice de Oliveira Soares 1 série 01.jpg",
+    aluno: "Ana Alice de Oliveira Soares",
+    turma: "1ª Série 01",
+    ingredientes: "2 maçãs médias raladas, 2 ovos, 1 xícara de aveia em flocos finos, 1 banana madura amassada, 1 colher de chá de canela em pó, 1 colher de chá de fermento em pó, 2 colheres de sopa de leite (se necessário).",
+    modoPreparo: "Descasque ou mantenha a casca das maçãs e rale. Amasse a banana. Misture os ovos, a banana e as maçãs. Acrescente a aveia e a canela. Misture o fermento por último. Distribua em forminhas de muffin, preenchendo até 3/4. Leve ao forno preaquecido a 180 °C por 20 a 25 minutos. Faça o teste do palito: se sair limpo, está pronto."
   },
-  "brigadeiro-banana": {
-    titulo: "Brigadeiro de Casca de Banana",
-    imagem: "img/brigadeiro-banana.png",
-    aluno: "Ana Clara",
-    turma: "1º Ano C",
-    ingredientes: "Cascas de 4 bananas higienizadas, 1 lata de leite condensado, 1 colher de sopa de manteiga, chocolate granulado",
-    modoPreparo: "Bata as cascas de banana no liquidificador com um pouco de água até triturar. Em uma panela, junte com o leite condensado e a manteiga, mexendo até soltar do fundo da panela."
+
+  "recheio-de-maca": {
+    titulo: "Recheio de maçã",
+    imagem: "img_Comidas/Ana Julia Souza 3ªserie3.jpeg",
+    aluno: "Ana Julia De Souza Da Silva",
+    turma: "3ª Série 3",
+    ingredientes: "5 maçãs médias, 1 colher de chá de canela em pó, 1 colher de sopa de suco de limão, 2 colheres de sopa de mel ou melado (opcional), 2 colheres de sopa de água, 1 pitada de noz-moscada (opcional). Cobertura: 1 xícara de aveia em flocos, 1/2 xícara de farinha de aveia, 1/2 xícara de castanhas ou nozes picadas, 2 colheres de sopa de coco ralado sem açúcar, 2 colheres de sopa de açúcar de coco ou mascavo (opcional), 3 colheres de sopa de óleo de coco, 1 colher de chá de canela em pó, 1 pitada de sal.",
+    modoPreparo: "Lave, descasque e corte as maçãs em cubinhos ou fatias. Coloque em uma tigela. Acrescente o suco de limão, a canela, o mel, a noz-moscada e a água. Misture delicadamente. Preparo da cobertura: em uma tigela, coloque a aveia em flocos e a farinha de aveia. Acrescente as castanhas picadas e o coco ralado. Adicione a canela, o sal e o açúcar de coco, caso utilize. Acrescente o óleo de coco. Misture com as mãos até formar uma farofa úmida e granulada. Montagem: preaqueça o forno a 180 °C. Distribua as maçãs em uma travessa refratária. Espalhe a cobertura de aveia por cima. Leve ao forno por aproximadamente 30 a 35 minutos, até a cobertura ficar dourada e crocante."
   },
-  "cha-maca": {
-    titulo: "Chá de Casca de Maçã",
-    imagem: "img/cha- maca.png",
-    aluno: "Beatriz Lima",
-    turma: "2º Ano B",
-    ingredientes: "Cascas de 3 maçãs, 1 litro de água, canela em pau a gosto, açúcar ou adoçante",
-    modoPreparo: "Ferva as cascas de maçã junto com a canela na água por cerca de 10 minutos. Coe, adoce a gosto e sirva quente ou gelado."
+
+   "pao-de-queijo-saudavel-com-aveia": {
+    titulo: "Pão de queijo saudável com aveia",
+    imagem: "img_Comidas/Anne Caroline Batista Madruga 1 Série 01 .jpg",
+    aluno: "Anne Caroline Batista Madruga",
+    turma: "1ª Série 01",
+    ingredientes: "1 xícara de polvilho azedo, 1 xícara de farinha de aveia, 1 ovo, 1/2 xícara de queijo minas ralado ou muçarela, 1/4 de xícara de leite, 1 colher de sopa de azeite, 1 colher de chá de fermento químico, sal a gosto.",
+    modoPreparo: "Em uma tigela, misture o polvilho, a farinha de aveia e o sal. Acrescente o ovo, o queijo e o azeite. Adicione o leite aos poucos, até formar uma massa macia e modelável. Misture o fermento por último. Faça bolinhas com as mãos. Coloque em uma forma untada ou com papel-manteiga. Asse em forno preaquecido a 180 °C por aproximadamente 20 a 25 minutos, até dourar."
   },
-  "farofa-legumes": {
-    titulo: "Farofa de Casca de Legumes",
-    imagem: "img/farofa-legumes.png",
-    aluno: "Lucas Gabriel",
-    turma: "3º Ano A",
-    ingredientes: "Cascas picadas de cenoura e batata, 2 xícaras de farinha de mandioca, alho, cebola, azeite e sal a gosto",
-    modoPreparo: "Refogue as cascas bem picadinhas no azeite com alho e cebola até dourarem. Acrescente a farinha de mandioca aos poucos, mexendo bem até tostar levemente."
+
+"bolo-banana-aveia-antonio": {
+    titulo: "Bolo saudável de banana com aveia",
+    imagem: "img_Comidas/Antonio Henrique 1°1.jpg",
+    aluno: "Antonio Henrique",
+    turma: "1º Ano 1",
+    ingredientes: "3 bananas maduras, 2 ovos, 1 xícara de farinha de aveia, 1/2 xícara de leite, 2 colheres de sopa de óleo de coco, 1 colher de chá de canela em pó, 1 colher de sopa de fermento químico em pó.",
+    modoPreparo: "Amasse bem as bananas em um recipiente. Acrescente os ovos, o leite e o óleo de coco. Misture tudo. Adicione a farinha de aveia e a canela, mexendo até formar uma massa homogênea. Por último, coloque o fermento e misture delicadamente. Despeje a massa em uma forma untada. Leve ao forno preaquecido a 180 °C por aproximadamente 30 a 35 minutos. Espere esfriar um pouco e sirva."
   },
-  "bolo-laranja": {
-    titulo: "Bolo de Casca de Laranja",
-    imagem: "img/bolo-laranja.png",
-    aluno: "Mariana Dias",
-    turma: "2º Ano C",
-    ingredientes: "Casca de 1 laranja bem lavada (sem a parte branca), 3 ovos, 1 xícara de óleo, 2 xícaras de açúcar, 2 xícaras de farinha de trigo, 1 colher de fermento",
-    modoPreparo: "Bata no liquidificador a casca da laranja picada, os ovos e o óleo. Despeje em uma tigela, misture o açúcar, a farinha e por fim o fermento. Asse em forno médio por 40 minutos."
+  
+  "bolo-aveia-goiabada": {
+    titulo: "Bolo saudável de aveia com goiabada",
+    imagem: "img_Comidas/Braian Pereira 1º02.jpeg",
+    aluno: "Braian Pereira",
+    turma: "1º Ano 2",
+    ingredientes: "3 ovos, 2 xícaras de farinha de aveia ou farelo de aveia, 1 xícara de leite vegetal ou leite de coco, 1/2 xícara de óleo de coco ou azeite, 1 xícara de adoçante culinário, 1 xícara de goiabada zero açúcar em pedacinhos, 1 colher de sopa de fermento em pó.",
+    modoPreparo: "No liquidificador, bata os ovos, o leite vegetal, o óleo de coco e o adoçante até obter uma mistura homogênea. Transfira a mistura líquida para uma tigela e incorpore a farinha de aveia aos poucos, mexendo bem até a massa ficar lisa. Misture delicadamente os pedacinhos de goiabada na massa. Por último, adicione o fermento em pó e mexa suavemente. Despeje a massa em uma forma untada e enfarinhada com aveia. Leve ao forno preaquecido a 180 °C por aproximadamente 35 a 40 minutos."
   },
-  "suco-detox": {
-    titulo: "Suco Detox de Couve e Limão",
-    imagem: "img/suco-detox.png",
-    aluno: "Matheus Henrique",
-    turma: "1º Ano A",
-    ingredientes: "2 folhas de couve, suco de 1 limão, 500ml de água gelada, gengibre ralado a gosto, adoçante",
-    modoPreparo: "Bata todos os ingredientes no liquidificador. Coe se preferir e sirva imediatamente bem gelado."
+
+  "bolo-banana-cacau": {
+    titulo: "Bolo saudável de banana com cacau",
+    imagem: "img_Comidas/Bryan Oliveira Damasceno Série e turma 1-1.jpg",
+    aluno: "Bryan Oliveira Damasceno",
+    turma: "1º Ano 1",
+    ingredientes: "3 bananas maduras, 3 ovos, 4 colheres de sopa de cacau em pó 100%, 2 colheres de sopa de óleo, 1 colher de sopa de fermento químico em pó, canela em pó a gosto (opcional).",
+    modoPreparo: "Descasque as bananas e amasse-as bem com um garfo. Coloque as bananas amassadas em uma tigela. Acrescente os ovos e o óleo, misturando bem. Adicione o cacau em pó e a canela. Misture até formar uma massa homogênea. Acrescente o fermento e misture delicadamente. Despeje a massa em uma forma untada com óleo. Leve ao forno preaquecido a 180 °C por aproximadamente 25 a 35 minutos. Espere esfriar um pouco antes de desenformar. Sirva."
   },
-  "caldo-verde": {
-    titulo: "Caldo Verde Sustentável",
-    imagem: "img/caldo-verde.png",
-    aluno: "Camila Ribeiro",
-    turma: "3º Ano C",
-    ingredientes: "4 batatas grandes cozidas e amassadas, talos de couve picados finamente, 200g de linguiça calabresa fatiada, alho, cebola, azeite e sal",
-    modoPreparo: "Refogue o alho e a cebola, adicione o purê de batatas com água para dar o caldo. Acrescente a calabresa e deixe ferver. Por fim, adicione os talos de couve picados e cozinhe por mais 3 minutos."
+
+   "vitamina-de-frutas": {
+    titulo: "Vitamina de frutas",
+    imagem: "img_Comidas/Cristiane de lima 1°3.jpg",
+    aluno: "Cristiane de Lima",
+    turma: "1º Ano 3",
+    ingredientes: "1 banana madura, 4 morangos, 1/2 mamão pequeno, 200 ml de leite gelado, 1 colher de sopa de açúcar mascavo, 2 pedras de gelo (opcional).",
+    modoPreparo: "Descasque a banana e o mamão. Lave bem os morangos e retire as folhas. Coloque todas as frutas no liquidificador. Acrescente o leite e o açúcar mascavo. Bata por aproximadamente 1 minuto, até ficar cremoso. Adicione gelo, se desejar, e bata mais um pouquinho. Sirva em um copo."
   },
-  "geleia-melancia": {
-    titulo: "Geleia de Casca de Melancia",
-    imagem: "img/geleia-melancia.png",
-    aluno: "Juliana Mendes",
-    turma: "1º Ano B",
-    ingredientes: "Parte branca da casca de melancia ralada, açúcar cristal, cravos da índia e suco de limão",
-    modoPreparo: "Cozinhe a parte branca ralada da melancia com o açúcar, o limão e os cravos em fogo baixo até ponto de geleia."
+
+  "bolo-banana-aveia-davy": {
+    titulo: "Bolo saudável de banana com aveia",
+    imagem: "img_Comidas/Davy Amorim 1º03.jpeg",
+    aluno: "Davy Amorim",
+    turma: "1ª Série 3",
+    ingredientes: "3 bananas maduras, 2 ovos, 1 xícara e meia de farinha de aveia, 1/2 xícara de leite, 1 colher de sopa de óleo, 1 colher de sopa de fermento em pó, canela a gosto.",
+    modoPreparo: "Amasse as bananas em um recipiente. Acrescente os ovos, o leite e o óleo. Misture bem. Adicione a farinha de aveia e a canela. Acrescente o fermento e misture delicadamente. Coloque a massa em uma forma untada. Leve ao forno preaquecido a 180 °C por aproximadamente 30 a 40 minutos. Espere esfriar um pouco antes de servir."
   },
-  "chips-batata": {
-    titulo: "Chips de Casca de Batata",
-    imagem: "img/chips-batata.png",
-    aluno: "Rafael Costa",
-    turma: "2º Ano A",
-    ingredientes: "Cascas de batatas bem lavadas, azeite, sal, páprica e orégano a gosto",
-    modoPreparo: "Tempere as cascas com azeite e especiarias. Leve ao forno ou airfryer a 200°C por cerca de 15 minutos até ficarem crocantes."
-  }
+   "bolo-banana-fit": {
+    titulo: "Bolo de banana ",
+    imagem: "img_Comidas/Edson Orli Arruda 1º 03.jpeg",
+    aluno: "Edson Orli Arruda",
+    turma: "1ª Série 3",
+    ingredientes: "2 bananas maduras amassadas, 1 ovo inteiro, 2 colheres de sopa de açúcar de coco ou açúcar demerara, mascavo ou adoçante culinário, 2 colheres de sopa de óleo de coco ou azeite de oliva, 4 colheres de sopa de farinha de aveia, 1 colher de chá de fermento químico em pó, canela em pó a gosto (opcional).",
+    modoPreparo: "Em uma tigela média, coloque as bananas maduras e amasse bem com um garfo até formar um purê liso e cremoso. Acrescente o ovo, o açúcar de coco e o óleo de coco. Misture até obter um creme homogêneo. Adicione a farinha de aveia e a canela em pó aos poucos, mexendo delicadamente. Por último, junte o fermento em pó e misture suavemente. Transfira a massa para uma caneca própria para micro-ondas ou para uma forma pequena untada. Asse no micro-ondas por cerca de 2 a 3 minutos em potência alta ou no forno preaquecido a 180 °C por 15 a 20 minutos. Aguarde amornar e sirva."
+  },
+  "suco-amarelo-abacaxi-cenoura": {
+    titulo: "Suco amarelo de abacaxi, cenoura e cúrcuma",
+    imagem: "img_Comidas/Emilie de Lima Gomes 2º01.jpeg",
+    aluno: "Emilie de Lima Gomes",
+    turma: "2ª Série 1",
+    ingredientes: "1 rodela média de abacaxi (aproximadamente 100 g), 1/2 cenoura média, suco de 1/2 limão, 1 colher de chá rasa de cúrcuma em pó, 1 pitada mínima de pimenta-do-reino (opcional), 200 ml de água filtrada gelada, 3 a 4 pedras de gelo (opcional).",
+    modoPreparo: "Lave bem a cenoura e o limão. Descasque a cenoura e corte-a em rodelas finas. Corte o abacaxi em cubos pequenos. Esprema o limão separadamente. Coloque a água gelada e o suco de limão no liquidificador. Acrescente o abacaxi, a cenoura, a cúrcuma e a pimenta. Bata em velocidade alta por aproximadamente 2 minutos. Adicione o gelo, se desejar, e bata rapidamente. Sirva imediatamente."
+  },
+"bolo-banana-chocolate-erica": {
+    titulo: "Bolo de banana com chocolate",
+    imagem: "img_Comidas/Erica Freitas 3º03.jpeg",
+    aluno: "Erica Freitas",
+    turma: "3ª Série 3",
+    ingredientes: "2 bananas maduras, 2 ovos, 4 colheres de sopa de chocolate 100% cacau, 4 colheres de sopa de aveia, 2 colheres de sopa de óleo, 1 colher de fermento, 1 colher de açúcar mascavo (opcional).",
+    modoPreparo: "Amasse as bananas. Misture os ovos e o óleo. Acrescente o chocolate e a aveia. Coloque o fermento por último. Despeje em uma forma pequena untada. Asse a 180 °C por aproximadamente 20 a 25 minutos."
+  },
+  "mini-bolo-chocolate": {
+    titulo: "Mini bolo de chocolate",
+    imagem: "img_Comidas/Evelin mattia dos Santos -1°3.jpg",
+    aluno: "Evelin Mattia dos Santos",
+    turma: "1º Ano 3",
+    ingredientes: "Massa: 2 ovos, 1 colher de sopa de óleo de coco, 2 colheres de sopa de água, 2 colheres de sopa de cacau em pó 100%, 3 colheres de sopa de farelo de aveia, 1 colher de sopa de adoçante culinário, 1 colher de chá de fermento para bolo, 1 pitada de noz-moscada, chocolate 70% e 1 saquinho de granulado. Recheio: 1 caixa de leite condensado (395 g), 2 caixinhas de creme de leite (400 g no total), 4 colheres de sopa de chocolate em pó 50% ou achocolatado, 1 colher de sopa de manteiga ou margarina sem sal.",
+    modoPreparo: "Coloque os ovos em uma tigela e bata até misturar a clara com a gema. Acrescente a água e mexa. Adicione o cacau em pó, a noz-moscada e o adoçante culinário, misturando após cada ingrediente. Acrescente o fermento e o farelo de aveia. Bata até ficar homogêneo. Coloque porções da massa em uma frigideira, tampe e deixe em fogo baixo. Repita até acabar a massa. Para o recheio, coloque o leite condensado e o chocolate em pó em uma panela e misture até dissolver. Adicione o creme de leite e a manteiga. Leve ao fogo médio, mexendo sem parar até o creme engrossar."
+  },
+   "mango-pomelo-sago": {
+    titulo: "Mango Pomelo Sago",
+    imagem: "img_Comidas/Evelyn Ribeiro dos Santos 1ªserie2.jpg",
+    aluno: "Evelyn Ribeiro dos Santos",
+    turma: "1ª Série 2",
+    ingredientes: "2 mangas maduras, 100 g de sagu pequeno, 200 ml de leite de coco sem açúcar, 100 ml de leite integral sem açúcar, 1/2 pomelo (ou toranja ou gomos de laranja), gelo a gosto.",
+    modoPreparo: "Cozinhe as pérolas de sagu em água fervente, seguindo o tempo indicado na embalagem. Quando ficarem translúcidas, escorra e lave em água fria. Bata uma manga com o leite de coco e o leite integral até formar um creme homogêneo. Corte a outra manga em cubinhos e separe os gomos do pomelo, retirando as partes brancas e as sementes. Junte o creme de manga, o sagu, os cubinhos de manga e o pomelo. Leve à geladeira por aproximadamente 1 hora e sirva geladinho."
+  },
+"panqueca-banana-aveia-gabrielle": {
+    titulo: "Panqueca de banana com aveia",
+    imagem: "",
+    aluno: "Gabrielle Aparecida dos Santos da Silva",
+    turma: "1ª Série 3",
+    ingredientes: "1 banana madura, 2 ovos, 3 colheres de sopa de aveia em flocos, 1 colher de chá de canela (opcional), 1 colher de chá de fermento em pó. Para acompanhar: morangos picados, banana em rodelas, iogurte natural e pasta de amendoim.",
+    modoPreparo: "Amasse bem a banana. Acrescente os ovos e misture. Adicione a aveia, a canela e o fermento. Misture até ficar homogêneo. Coloque pequenas porções em uma frigideira antiaderente. Deixe dourar dos dois lados. Sirva com os acompanhamentos desejados."
+  },
+
+
+
+
+
+
+
+
+
 };
 
 // 2. Preenche a página da receita (só roda se estiver em receita.html)
