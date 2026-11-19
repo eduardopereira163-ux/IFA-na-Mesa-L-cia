@@ -138,7 +138,7 @@ const bancoDeReceitas = {
   },
 "panqueca-banana-aveia-gabrielle": {
     titulo: "Panqueca de banana com aveia",
-    imagem: "",
+    imagem: "img_Comidas/panqueca banana aveia.jpeg",
     aluno: "Gabrielle Aparecida dos Santos da Silva",
     turma: "1ª Série 3",
     ingredientes: "1 banana madura, 2 ovos, 3 colheres de sopa de aveia em flocos, 1 colher de chá de canela (opcional), 1 colher de chá de fermento em pó. Para acompanhar: morangos picados, banana em rodelas, iogurte natural e pasta de amendoim.",
