@@ -143,10 +143,256 @@ const bancoDeReceitas = {
     turma: "1ª Série 3",
     ingredientes: "1 banana madura, 2 ovos, 3 colheres de sopa de aveia em flocos, 1 colher de chá de canela (opcional), 1 colher de chá de fermento em pó. Para acompanhar: morangos picados, banana em rodelas, iogurte natural e pasta de amendoim.",
     modoPreparo: "Amasse bem a banana. Acrescente os ovos e misture. Adicione a aveia, a canela e o fermento. Misture até ficar homogêneo. Coloque pequenas porções em uma frigideira antiaderente. Deixe dourar dos dois lados. Sirva com os acompanhamentos desejados."
+},
+   // 18. Salpicão saudável
+  "salpicao-saudavel": {
+    titulo: "Salpicão saudável com maionese de biomassa de banana verde",
+    imagem: "img_Comidas/Gabriele de Moraes Alves 1ªserie1.jpg",
+    aluno: "Gabriele de Moraes Alves",
+    turma: "1ª Série 1",
+    ingredientes: "Salpicão: 4 cenouras cozidas e cortadas em cubos, 2 maçãs verdes cortadas em cubos, 2 maçãs vermelhas cortadas em cubos, tomates-cereja a gosto, 1 kg de peito de frango cozido e desfiado, salsinha picada a gosto e lâminas de amêndoas a gosto. Maionese: 1 xícara de biomassa de banana verde, suco de meio limão, azeite a gosto, 1 dente de alho, salsinha a gosto, orégano a gosto, sal rosa a gosto e água a gosto.",
+    modoPreparo: "Cozinhe as cenouras, corte-as em cubos e reserve. Em uma tigela grande, coloque o frango cozido e desfiado, as cenouras, as maçãs verdes, as maçãs vermelhas, os tomates-cereja cortados ao meio e a salsinha picada. Misture todos os ingredientes. Para preparar a maionese, coloque no liquidificador a biomassa de banana verde, o suco de meio limão, o azeite, o alho, a salsinha, o orégano e o sal rosa. Bata tudo e vá adicionando água aos poucos até obter uma consistência cremosa. Despeje a maionese sobre a mistura do salpicão e mexa bem. Finalize com as lâminas de amêndoas por cima."
   },
 
+  // 19. Geladinho natural de morango com banana
+  "geladinho-morango-banana": {
+    titulo: "Geladinho natural de morango com banana",
+    imagem: "img_Comidas/Georgia Gabriele 1ªserie1.jpg",
+    aluno: "Georgia Gabriele",
+    turma: "1ª Série 1",
+    ingredientes: "1 banana, 6 morangos e meio copo de leite (aproximadamente 100 ml).",
+    modoPreparo: "Lave bem os morangos. Descasque a banana. Coloque a banana, os morangos e o leite no liquidificador. Bata até formar uma mistura cremosa. Despeje em forminhas de picolé ou copinhos. Leve ao congelador até ficar firme."
+  },
 
+  // 20. Sopa de abóbora
+  "sopa-de-abobora": {
+    titulo: "Sopa de abóbora",
+    imagem: "",
+    aluno: "Henrique de Sousa Castro",
+    turma: "1ª Série 1",
+    ingredientes: "300 g de abóbora, 150 g de peito de frango, meia cebola, 1 dente de alho, 1 cenoura pequena, sal e temperos naturais a gosto, água suficiente para cozinhar e um fio de azeite.",
+    modoPreparo: "Refogue a cebola e o alho no azeite. Acrescente o frango, a abóbora, a cenoura e a água. Cozinhe até tudo ficar macio. Retire o frango, desfie e reserve. Bata os legumes no liquidificador, volte à panela e misture o frango. Ajuste o sal e sirva quentinho."
+  },
 
+  // 21. Panqueca saudável de banana com aveia
+  "panqueca-banana-aveia-joao": {
+    titulo: "Panqueca saudável de banana com aveia",
+    imagem: "",
+    aluno: "João Vitor",
+    turma: "2ª Série 1",
+    ingredientes: "1 banana madura, 2 ovos, 2 colheres de sopa de aveia em flocos, 1 colher de chá de canela em pó, 1 colher de chá de fermento químico (opcional) e 1 colher de chá de óleo para untar a frigideira.",
+    modoPreparo: "Amasse a banana com um garfo até formar um purê. Acrescente os dois ovos e misture bem. Adicione a aveia e a canela em pó. Misture todos os ingredientes até formar uma massa homogênea. Acrescente o fermento e mexa delicadamente. Unte uma frigideira antiaderente com um pouquinho de óleo. Coloque pequenas porções da massa na frigideira. Deixe dourar em fogo baixo e vire para dourar o outro lado."
+  },
+
+  // 22. Salada-tarte de grão-de-bico
+  "salada-tarte-grao-de-bico": {
+    titulo: "Salada-tarte de grão-de-bico com sementes e legumes assados",
+    imagem: "img_Comidas/Kaiane Camargo De Sá 1ªserie3.jpg",
+    aluno: "Kaiane Camargo De Sá",
+    turma: "1ª Série 3",
+    ingredientes: "1 xícara de grão-de-bico cozido, meia xícara de abóbora moranga em cubos pequenos, meia xícara de cenoura ralada, um quarto de xícara de brócolis picado, 2 colheres de sopa de farinha de aveia, 1 colher de sopa de farinha de linhaça, 1 colher de sopa de sementes de girassol, 1 colher de sopa de sementes de abóbora, 1 dente de alho picado, 1 pitada de sal, 1 pitada de orégano e 1 pitada de páprica defumada.",
+    modoPreparo: "Preaqueça o forno a 180 °C. Coloque a abóbora, a cenoura e o brócolis em uma assadeira, tempere com sal e orégano e leve ao forno por 15 minutos. No liquidificador, bata o grão-de-bico com o alho até formar uma pasta. Junte a pasta com as farinhas, as sementes e os legumes já assados. Mexa bem. Transfira para uma forma pequena e leve ao forno por mais 20 minutos até ficar firme e dourada. Deixe esfriar um pouco e sirva."
+  },
+
+  // 23. Bolo saudável de banana com aveia
+  "bolo-banana-aveia-kauane": {
+    titulo: "Bolo saudável de banana com aveia",
+    imagem: "img_Comidas/Kauane antunes silva 3ªserie1.jpg",
+    aluno: "Kauane Antunes Silva",
+    turma: "3ª Série 1",
+    ingredientes: "3 bananas maduras, 2 ovos, 1 xícara e meia de farinha de aveia, meia xícara de leite, 2 colheres de sopa de óleo de coco, 1 colher de sopa de fermento em pó, canela em pó a gosto e uvas-passas a gosto (opcional).",
+    modoPreparo: "Amasse bem as bananas em um recipiente. Acrescente os ovos, o leite e o óleo de coco. Misture bem. Adicione a farinha de aveia e a canela. Misture até formar uma massa homogênea. Por último, acrescente o fermento e misture delicadamente. Coloque a massa em uma forma untada. Leve ao forno preaquecido a 180 °C por aproximadamente 30 a 40 minutos. Espere esfriar um pouco e sirva."
+  },
+
+  // 24. Salada de frutas
+  "salada-de-frutas-luan": {
+    titulo: "Salada de frutas saudável",
+    imagem: "img_Comidas/LUAN PROENCA MARASCHIN 3° ano vespertino.jpg",
+    aluno: "Luan Proença Maraschin",
+    turma: "3º Ano",
+    ingredientes: "1 manga, 1 xícara de uvas sem sementes, 1 fatia de mamão, 1 xícara de morangos, suco de 2 a 3 laranjas ou um pouco de limão, 2 bananas, 1 maçã, folhas de hortelã para decorar ou um fio de mel (opcional).",
+    modoPreparo: "Esprema o suco das laranjas e reserve. Corte o mamão, a manga e os morangos em pedaços de tamanhos semelhantes e coloque em uma travessa. Adicione as uvas inteiras ou cortadas ao meio. Pique a maçã e a banana por último. Pingue algumas gotas de limão sobre elas e misture. Despeje o suco de laranja sobre todas as frutas. Misture delicadamente. Cubra e leve à geladeira por pelo menos 30 minutos antes de servir."
+  },
+
+  // 25. Pizza de couve-flor
+  "pizza-de-couve-flor": {
+    titulo: "Pizza de couve-flor",
+    imagem: "img_Comidas/Laura Oliveira Pereira da Silva (da 1 série 01)..jpg",
+    aluno: "Laura Oliveira Pereira da Silva",
+    turma: "1ª Série 1",
+    ingredientes: "Massa: 1 couve-flor média, 1 ovo, 2 colheres de sopa de queijo parmesão ralado, orégano a gosto, alho em pó a gosto e uma pitada de sal. Cobertura: molho de tomate natural, queijo mussarela, tomate-cereja, manjericão fresco e orégano.",
+    modoPreparo: "Lave bem a couve-flor, separe os floretes e triture no processador até ficar parecida com uma farinha. Coloque a couve-flor triturada em um pano limpo e esprema para retirar o excesso de água. Misture a couve-flor com o ovo, o parmesão e os temperos. Espalhe a massa em uma forma com papel-manteiga, formando um círculo. Asse a 200 °C por aproximadamente 15 a 20 minutos, até dourar. Adicione o molho de tomate, a mussarela e os tomatinhos. Volte ao forno por mais 5 a 10 minutos, até derreter o queijo. Finalize com manjericão."
+  },
+
+  // 26. Strogonoff fit com iogurte
+  "strogonoff-fit-iogurte": {
+    titulo: "Strogonoff fit com iogurte",
+    imagem: "img_Comidas/Mariane da Silva Marques 3ªserie1.jpg",
+    aluno: "Mariane da Silva Marques",
+    turma: "3ª Série 1",
+    ingredientes: "300 g de filé de peito de frango, 2 colheres de sopa de azeite, 100 g de cebola, 2 dentes de alho, sal a gosto, lemon pepper a gosto, pimenta-do-reino a gosto, louro em pó a gosto, açafrão a gosto, páprica doce a gosto, 3 colheres de sopa de molho de tomate, 4 colheres de sopa de milho (opcional) e 1 pote de iogurte natural de 170 g.",
+    modoPreparo: "Corte o frango em pedaços pequenos ou médios. Descasque e corte a cebola e o alho. Em uma frigideira, aqueça o azeite e refogue a cebola e o alho por cerca de 3 minutos. Adicione o frango e mexa até mudar de cor. Tempere com sal, lemon pepper, pimenta-do-reino, louro, açafrão e páprica. Acrescente o molho de tomate e mexa. Adicione o milho e o iogurte natural, misturando até formar um molho cremoso. Sirva."
+  },
+
+  // 27. Panqueca de aveia com frango
+  "panqueca-aveia-frango": {
+    titulo: "Panqueca de aveia com frango desfiado",
+    imagem: "img_Comidas/Matheus 1-serie 1.jpg",
+    aluno: "Matheus",
+    turma: "1ª Série 1",
+    ingredientes: "Massa: 2 ovos, meia xícara de farinha de aveia, meia xícara de leite, 1 colher de sopa de azeite de oliva, 1 pitada de sal e 1 colher de chá de fermento químico em pó. Recheio: 200 g de peito de frango cozido e desfiado, meia cebola pequena picada, 1 tomate médio picado sem sementes, 1 dente de alho amassado, 1 colher de sopa de azeite, 2 colheres de sopa de cheiro-verde, sal e pimenta-do-reino a gosto e 2 colheres de sopa de molho de tomate natural.",
+    modoPreparo: "Para a massa, misture os ovos, o leite, a farinha de aveia, o azeite e o sal até obter uma massa homogênea. Adicione o fermento e misture delicadamente. Aqueça uma frigideira antiaderente e coloque pequenas porções da massa. Deixe dourar dos dois lados. Para o recheio, aqueça o azeite em uma panela. Acrescente a cebola e o alho e refogue. Adicione o tomate e refogue por alguns minutos. Acrescente o frango desfiado, o molho de tomate, o sal e a pimenta. Finalize com cheiro-verde. Coloque o recheio sobre cada panqueca e enrole."
+  },
+
+  // 28. Pudim de pão
+  "pudim-de-pao": {
+    titulo: "Pudim de pão",
+    imagem: "img_Comidas/Miguel de F. Pereira 1 série 01.jpg",
+    aluno: "Miguel de F. Pereira",
+    turma: "1ª Série 1",
+    ingredientes: "3 pães pequenos amanhecidos integrais, 500 ml de leite, 3 ovos inteiros, 2 xícaras de açúcar mascavo, raspas de limão a gosto e 1 xícara de coco ralado fresco.",
+    modoPreparo: "Corte os pãezinhos em rodelas com aproximadamente 2 cm de espessura. Distribua as rodelas de pão no fundo de um refratário. No liquidificador, bata o leite, os ovos e o açúcar. Acrescente as raspas de limão e o coco. Despeje a mistura sobre o pão. Asse em banho-maria no forno preaquecido por aproximadamente 30 minutos. Espere amornar e leve à geladeira para servir gelado."
+  },
+
+  // 29. Bolo de chocolate de aveia com banana
+  "bolo-chocolate-aveia-banana": {
+    titulo: "Bolo de chocolate de aveia com banana",
+    imagem: "img_Comidas/NATHALIA DE MATOS DA SILVA 3ªserie1.jpg",
+    aluno: "Nathalia de Matos da Silva",
+    turma: "3ª Série 1",
+    ingredientes: "2 ovos, 2 bananas maduras, 1 xícara de aveia, 2 colheres de sopa de cacau em pó 100%, 1 colher de chá de fermento e meia xícara de leite.",
+    modoPreparo: "Amasse as bananas. Adicione os ovos e o leite. Misture a aveia e o cacau. Acrescente o fermento. Coloque em uma forma untada. Asse a 180 °C por aproximadamente 25 a 35 minutos."
+  },
+
+  // 30. Bolo de cacau com aveia
+  "bolo-cacau-aveia": {
+    titulo: "Bolo de cacau com aveia",
+    imagem: "img_Comidas/Nathalia Almeida Rodrigues 1 ano 3.jpg",
+    aluno: "Nathalia Almeida Rodrigues",
+    turma: "1º Ano 3",
+    ingredientes: "4 ovos, meia xícara de mel ou xilitol ou adoçante culinário, um quarto de xícara de cacau 100% em pó, um quarto de xícara de óleo de coco ou azeite de oliva, 1 xícara de aveia em flocos finos ou farinha de aveia, meia xícara de água ou leite vegetal, meia colher de sopa de fermento em pó e 1 colher de chá de bicarbonato de sódio (opcional).",
+    modoPreparo: "No liquidificador, bata os ovos e o mel por cerca de 1 minuto. Acrescente o cacau em pó e o óleo de coco, batendo por mais 1 minuto. Adicione a aveia e a água ou leite vegetal. Bata novamente. Acrescente o fermento e o bicarbonato e bata rapidamente apenas para misturar. Despeje a massa em uma forma pequena untada com óleo de coco e farinha de aveia. Asse em forno preaquecido a 180 °C por aproximadamente 40 minutos. Faça o teste do palito."
+  },
+
+  // 31. Bolo de cenoura
+  "bolo-de-cenoura-nicolas": {
+    titulo: "Bolo de cenoura",
+    imagem: "",
+    aluno: "Nicolas Sousa Borges",
+    turma: "1ª Série 3",
+    ingredientes: "Massa: 3 cenouras médias descascadas e picadas, 4 ovos, 1 xícara de óleo vegetal, 1 xícara e meia de açúcar refinado, 2 xícaras de farinha de trigo peneirada, 1 colher de sopa de fermento em pó e 1 pitada de sal. Cobertura: 1 lata ou caixinha de leite condensado, meia caixinha de creme de leite, 4 colheres de sopa de chocolate em pó e 1 colher de sopa de manteiga.",
+    modoPreparo: "Preaqueça o forno a 180 °C e unte uma forma média. No liquidificador, bata a cenoura, os ovos, o óleo e o açúcar por aproximadamente 3 minutos. Despeje a mistura em uma tigela e misture a farinha peneirada com o sal aos poucos. Adicione o fermento e mexa delicadamente. Transfira para a forma e asse por aproximadamente 45 a 50 minutos. Para a cobertura, misture o leite condensado, a manteiga e o chocolate em uma panela em fogo baixo. Mexa até engrossar levemente. Desligue o fogo, misture o creme de leite e despeje sobre o bolo."
+  },
+
+  // 32. Arroz doce
+  "arroz-doce": {
+    titulo: "Arroz doce",
+    imagem: "",
+    aluno: "Victor Bertoni",
+    turma: "1ª Série 1",
+    ingredientes: "1 xícara de arroz branco, 2 xícaras de água, 1 litro de leite integral, 1 lata de leite condensado, 1 caixa de creme de leite de 200 g, 2 xícaras de açúcar, 1 ou 2 unidades de canela em pau, 1 pitada de sal, 3 unidades de cravo-da-índia e canela em pó para polvilhar.",
+    modoPreparo: "Em uma panela grande, coloque o arroz, a água, a canela em pau e os cravos. Cozinhe até a água secar e os grãos ficarem macios. Despeje o leite integral e a pitada de sal. Mexa e deixe ferver em fogo médio-baixo por cerca de 10 a 15 minutos. Acrescente o leite condensado e o açúcar. Cozinhe por mais 5 minutos, mexendo sempre. Desligue o fogo e incorpore o creme de leite. Retire a canela em pau e os cravos, se preferir. Sirva morno ou gelado, polvilhado com canela em pó."
+  },
+
+  // 33. Panqueca de banana com aveia e ovo
+  "panqueca-banana-aveia-ovo": {
+    titulo: "Panqueca de banana com aveia e ovo",
+    imagem: "",
+    aluno: "Nicolas Alves Marafigo",
+    turma: "1º Ano 3",
+    ingredientes: "1 banana madura, 1 ovo, 2 a 3 colheres de sopa de aveia em flocos, farelo ou farinha de aveia, canela em pó a gosto (opcional), 1 pitada de fermento químico em pó (opcional) e azeite, óleo de coco ou manteiga para untar a frigideira.",
+    modoPreparo: "Amasse a banana com um garfo até formar um purê. Acrescente o ovo e misture bem. Junte a aveia, a canela e o fermento, mexendo até obter uma massa homogênea. Aqueça uma frigideira antiaderente em fogo baixo e unte com um pouco de azeite, óleo de coco ou manteiga. Despeje a massa na frigideira. Tampe e deixe dourar por cerca de 2 a 3 minutos. Vire com cuidado e deixe dourar do outro lado por mais 1 a 2 minutos."
+  },
+
+  // 34. Strogonoff fit com batata-doce
+  "strogonoff-fit-batata-doce": {
+    titulo: "Strogonoff fit com batata-doce",
+    imagem: "img_Comidas/Katriny Miranda Siqueira 1 Serie 01.jpg",
+    aluno: "Katriny Miranda Siqueira",
+    turma: "1ª Série 1",
+    ingredientes: "Meio peito de frango, pimenta-do-reino a gosto, sal a gosto, 1 fio de azeite, meia cebola, 1 tomate, 1 xícara de molho de tomate, 1 copo de iogurte natural, 1 batata-doce e alecrim a gosto.",
+    modoPreparo: "Tempere o frango com sal e pimenta-do-reino. Em uma panela, aqueça um fio de azeite e refogue a cebola. Adicione uma pitada de sal e o frango. Deixe refogar um pouco e acrescente o tomate. Adicione o molho de tomate e deixe cozinhar por 5 minutos. Em seguida, acrescente o iogurte natural. Misture bem e desligue o fogo. Cozinhe uma batata-doce com casca. Corte-a em rodelas. Tempere as rodelas com sal e alecrim. Aqueça um fio de azeite e doure as rodelas de batata-doce. Sirva o strogonoff com a batata-doce."
+  },
+
+  // 35. Bolo de maçã com aveia
+  "bolo-maca-aveia": {
+    titulo: "Bolo de maçã com aveia sem açúcar e sem trigo",
+    imagem: "",
+    aluno: "Tales Tobias Santana",
+    turma: "2ª Série 1",
+    ingredientes: "4 maçãs grandes, 1 banana madura, 2 xícaras de aveia, 3 ovos, 3 colheres de sopa de uva-passa, 1 colher de sopa de canela em pó e 1 colher de sopa de fermento em pó.",
+    modoPreparo: "Descasque as maçãs e retire as sementes. Corte as maçãs em pedaços. Coloque as maçãs, a banana, os ovos e a uva-passa no liquidificador. Bata até formar uma mistura homogênea. Acrescente a aveia e a canela e misture. Adicione o fermento e mexa delicadamente. Despeje a massa em uma forma untada. Leve ao forno preaquecido por aproximadamente 50 minutos."
+  },
+
+  // 36. Mousse de chocolate com abacate
+  "mousse-chocolate-abacate": {
+    titulo: "Mousse de chocolate com abacate",
+    imagem: "img_Comidas/Tamires Natasha de Souza morais 2ªserie4.jpg",
+    aluno: "Tamires Natasha de Souza Morais",
+    turma: "2ª Série 4",
+    ingredientes: "Meio abacate maduro (ou 200 g), 2 colheres de sopa de cacau em pó 100% ou chocolate em pó 50%, 2 colheres de sopa de mel, melado de cana ou adoçante natural, um quarto de xícara de água ou leite vegetal (opcional) e 1 pitada de essência de baunilha ou sal.",
+    modoPreparo: "Coloque a polpa do abacate maduro no liquidificador ou processador. Junte o cacau em pó, o adoçante escolhido, a baunilha e a água ou leite vegetal. Bata por cerca de 1 a 2 minutos até obter um creme liso e homogêneo. Se necessário, raspe as laterais do copo com uma espátula. Transfira para taças individuais e leve à geladeira por pelo menos 30 minutos a 2 horas para firmar. Sirva com raspas de chocolate amargo, morangos ou castanhas."
+  },
+
+  // 37. Salmão com salsa de abacate
+  "salmao-salsa-abacate": {
+    titulo: "Salmão com salsa de abacate",
+    imagem: "",
+    aluno: "Willian Felipe",
+    turma: "2º Ano 4",
+    ingredientes: "2 filés de salmão, 1 abacate picado, 2 tomates roma ou um punhado de tomates-cereja picados, um quarto de cebola roxa pequena picada, suco de 2 limões, 2 colheres de sopa de coentro ou salsinha picada, 2 colheres de chá de azeite de oliva, sal e pimenta-do-reino a gosto e folhas verdes para acompanhar.",
+    modoPreparo: "Em uma tigela, misture o abacate, o tomate, a cebola roxa, o suco de limão, a erva fresca e o sal. Leve à geladeira até a hora de servir. Aqueça o azeite em fogo médio-alto. Tempere os filés de salmão com sal e pimenta e grelhe por cerca de 3 a 4 minutos de cada lado."
+  },
+
+  // 38. Torta saudável de frango com legumes
+  "torta-frango-legumes": {
+    titulo: "Torta saudável de frango com legumes e farinha de aveia",
+    imagem: "",
+    aluno: "Yasmin Padilha",
+    turma: "2ª Série 1",
+    ingredientes: "Massa: 2 ovos, 1 xícara de leite, um quarto de xícara de azeite, 1 xícara e meia de farinha de aveia, 1 colher de sopa de fermento em pó e 1 pitada de sal. Recheio: 1 xícara de frango cozido e desfiado, 1 cenoura pequena ralada, meia xícara de milho, 1 tomate picado, meia cebola picada, cheiro-verde e orégano a gosto.",
+    modoPreparo: "Em uma tigela, misture os ovos, o leite e o azeite. Acrescente a farinha de aveia e o sal. Misture até formar uma massa homogênea. Adicione o fermento e misture delicadamente. Em outro recipiente, misture o frango desfiado, a cenoura, o milho, o tomate, a cebola e os temperos. Unte uma forma com azeite e coloque metade da massa. Espalhe o recheio e cubra com o restante da massa. Leve ao forno preaquecido a 180 °C por aproximadamente 30 a 35 minutos, ou até dourar."
+  },
+
+  // 39. Bolo de banana de caneca
+  "bolo-banana-caneca-aveia": {
+    titulo: "Bolo de banana de caneca com aveia",
+    imagem: "",
+    aluno: "Yuri José Varela",
+    turma: "1ª Série 2",
+    ingredientes: "1 banana madura amassada, 1 ovo, 2 colheres de sopa de farinha de aveia, 1 colher de sopa de açúcar mascavo, demerara ou de coco, 1 colher de chá de cacau em pó ou canela em pó (opcional) e meia colher de chá de fermento em pó para bolo.",
+    modoPreparo: "Em uma tigela ou caneca, coloque a banana madura e amasse bem com um garfo. Adicione o ovo e o açúcar e misture bem até ficar homogêneo. Acrescente a farinha de aveia e o cacau ou a canela, mexendo delicadamente. Por fim, adicione o fermento em pó e misture levemente. Leve ao micro-ondas por aproximadamente 1 minuto e 30 segundos. Espere esfriar um pouco e sirva diretamente na caneca ou desenforme."
+  },
+
+  // 40. Pavê de morango com creme de castanhas
+  "pave-morango-creme-castanhas": {
+    titulo: "Pavê de morango com creme de castanhas",
+    imagem: "",
+    aluno: "Yuri dos Santos de Souza",
+    turma: "3ª Série 3",
+    ingredientes: "1 xícara de castanha-de-caju crua, meia xícara de leite vegetal, essência de baunilha, 3 colheres de sopa de mel, morangos picados e castanhas trituradas.",
+    modoPreparo: "Deixe a castanha-de-caju crua de molho em água por 4 horas. Escorra e bata no liquidificador com o leite vegetal, a essência de baunilha e o mel até virar um creme liso. Monte em taças intercalando o creme, morangos picados e castanhas trituradas."
+  },
+
+  // 41. Omelete de grão-de-bico
+  "omelete-grao-de-bico": {
+    titulo: "Omelete de grão-de-bico",
+    imagem: "",
+    aluno: "Davi Sousa Cardoso",
+    turma: "3ª Série 1",
+    ingredientes: "4 colheres de sopa de grão-de-bico cozido (aproximadamente 60 g), 1 ovo inteiro, 2 colheres de sopa de tomate picado sem sementes, 1 colher de sopa de cebola picada, cebolinha ou salsinha picada a gosto, sal, pimenta-do-reino, orégano, páprica ou cúrcuma a gosto e 1 fio de azeite de oliva.",
+    modoPreparo: "Em uma tigela, amasse bem o grão-de-bico cozido com um garfo até formar uma pastinha. Se estiver muito seco, adicione um pouco de água. Acrescente o ovo e misture até incorporar. Junte o tomate, a cebola, o cheiro-verde e os temperos escolhidos. Unte uma frigideira pequena antiaderente com um fio de azeite, despeje a massa e tampe. Cozinhe em fogo baixo por cerca de 3 a 4 minutos, vire e deixe dourar por mais 2 minutos. Também pode ser preparado no micro-ondas ou na airfryer."
+  },
+
+  // 42. Bolinho natural de banana com coco e aveia
+  "bolinho-banana-coco-aveia": {
+    titulo: "Bolinho natural de banana com coco e aveia",
+    imagem: "",
+    aluno: "Kerolin Bianca de Souza Moraes",
+    turma: "1ª Série 3",
+    ingredientes: "Bananas maduras, 1 ovo, 4 colheres de sopa de coco ralado, 2 colheres de sopa de farinha de aveia e canela a gosto.",
+    modoPreparo: "Descasque as bananas e amasse bem com um garfo. Coloque o ovo e misture até ficar homogêneo. Acrescente o coco ralado, a farinha de aveia e a canela. Misture tudo até formar uma massa. Faça pequenas bolinhas e coloque em uma frigideira untada. Achate delicadamente e deixe dourar dos dois lados, em fogo baixo, até cozinhar por dentro."
+  }
 
 
 
