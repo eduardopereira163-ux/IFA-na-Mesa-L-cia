@@ -833,7 +833,7 @@ function pesquisar() {
         // Se encontrar o texto e a categoria, mostra o card
         if (encontrouTexto && encontrouCategoria) {
 
-            card.style.display = "flex";
+            card.style.display = "";
 
             quantidadeEncontrada++;
 
