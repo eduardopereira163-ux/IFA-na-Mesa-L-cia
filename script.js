@@ -1,3 +1,4 @@
+
 const bancoDeReceitas = {
  "torta-saudavel-de-morango-com-aveia": {
     titulo: "Torta saudável de morango com aveia",
@@ -1109,7 +1110,6 @@ function pesquisar() {
     }
 
 }
-
 // ==========================================
 // 7. PESQUISA ENQUANTO DIGITA
 // ==========================================
@@ -1119,13 +1119,26 @@ if (campoPesquisa) {
     // Pesquisa automaticamente enquanto digita
     campoPesquisa.addEventListener("input", pesquisar);
 
-    // Permite pesquisar apertando ENTER
+    // Permite pesquisar e rolar até os itens apertando ENTER
     campoPesquisa.addEventListener("keydown", function(evento) {
 
         if (evento.key === "Enter") {
+            evento.preventDefault(); // Evita comportamento padrão do navegador
 
-            pesquisar();
+            pesquisar(); // Executa o seu filtro
 
+            // Pega o título "Receitas" ou a grade de cards como destino
+            const destino = document.querySelector(".receitas") || document.querySelector(".cards-receitas");
+
+            if (destino) {
+                destino.scrollIntoView({
+                    behavior: "smooth",
+                    block: "start"
+                });
+            }
+
+            // Fecha o teclado no celular após confirmar
+            campoPesquisa.blur();
         }
 
     });
