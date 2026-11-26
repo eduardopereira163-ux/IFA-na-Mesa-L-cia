@@ -103,11 +103,25 @@ header .link-redes:hover {
     border: 1px solid rgba(185, 28, 28, 0.25);
     margin-bottom: 35px;
 }
+.desenvolvedores{
+    background: var(--bg-cards);
+    padding: 45px 25px;
+    border-radius: 15px;
+    text-align: center;
+    border: 1px solid rgba(185, 28, 28, 0.25);
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+.desenvolvedores h1 {
+    color: var(--vermelho-destaque);
+    margin-bottom: 15px;
+    font-size: 32px;
+}
 
 .sobre-banner h1 {
     color: var(--vermelho-destaque);
     margin-bottom: 15px;
-    font-size: 32px;
+    font-size: 38px;
 }
 
 .sobre-banner p {
@@ -754,7 +768,10 @@ footer img{
 
     .footer-redes {
         justify-content: center;
-        gap: 30px;
+        gap: 20px;
+    }
+    .footer-redes a {
+        font-size: 14px;
     }
 
     /* IMAGENS E ELEMENTOS */
@@ -786,6 +803,10 @@ footer img{
 
     .pesquisa button {
         padding: 0 8px;
+        font-size: 12px;
+    }
+    .footer-redes a {
+        gap: 10px;
         font-size: 12px;
     }
 
