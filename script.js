@@ -206,7 +206,7 @@ const bancoDeReceitas = {
   // 20. Sopa de abóbora
   "sopa-de-abobora": {
     titulo: "Sopa de abóbora",
-    imagem: "",
+    imagem: "img_Comidas/Henrique de Sousa Castro 1º01.jpg",
     aluno: "Henrique de Sousa Castro",
     turma: "1ª Série 1",
     porcoes: "não informado",
@@ -218,7 +218,7 @@ const bancoDeReceitas = {
   // 21. Panqueca saudável de banana com aveia
   "panqueca-banana-aveia-joao": {
     titulo: "Panqueca saudável de banana com aveia",
-    imagem: "",
+    imagem: "img_Comidas/João Vitor 2º01.jpg",
     aluno: "João Vitor",
     turma: "2ª Série 1",
     porcoes: "não informado",
@@ -338,7 +338,7 @@ const bancoDeReceitas = {
   // 31. Bolo de cenoura
   "bolo-de-cenoura-nicolas": {
     titulo: "Bolo de cenoura",
-    imagem: "",
+    imagem: "img_Comidas/Nicolas Borges 1º03.jpg",
     aluno: "Nicolas Sousa Borges",
     turma: "1ª Série 3",
     porcoes: "não informado",
@@ -350,7 +350,7 @@ const bancoDeReceitas = {
   // 32. Arroz doce
   "arroz-doce": {
     titulo: "Arroz doce",
-    imagem: "",
+    imagem: "img_Comidas/Victor Bertoni 1º01.jpg",
     aluno: "Victor Bertoni",
     turma: "1ª Série 1",
     porcoes: "não informado",
@@ -362,7 +362,7 @@ const bancoDeReceitas = {
   // 33. Panqueca de banana com aveia e ovo
   "panqueca-banana-aveia-ovo": {
     titulo: "Panqueca de banana com aveia e ovo",
-    imagem: "",
+    imagem: "img_Comidas/Nicolas Alves Marafigo 1º03.jpg",
     aluno: "Nicolas Alves Marafigo",
     turma: "1º Ano 3",
     porcoes: "não informado",
@@ -386,7 +386,7 @@ const bancoDeReceitas = {
   // 35. Bolo de maçã com aveia
   "bolo-maca-aveia": {
     titulo: "Bolo de maçã com aveia sem açúcar e sem trigo",
-    imagem: "",
+    imagem: "img_Comidas/Tales Tobias Santana 2º 1.jpg",
     aluno: "Tales Tobias Santana",
     turma: "2ª Série 1",
     porcoes: "não informado",
@@ -410,7 +410,7 @@ const bancoDeReceitas = {
   // 37. Salmão com salsa de abacate
   "salmao-salsa-abacate": {
     titulo: "Salmão com salsa de abacate",
-    imagem: "",
+    imagem: "img_Comidas/Willian Felipe 2º4.jpg",
     aluno: "Willian Felipe",
     turma: "2º Ano 4",
     porcoes: "2 porções",
@@ -422,7 +422,7 @@ const bancoDeReceitas = {
   // 38. Torta saudável de frango com legumes
   "torta-frango-legumes": {
     titulo: "Torta saudável de frango com legumes e farinha de aveia",
-    imagem: "",
+    imagem: "img_Comidas/Yasmin Padilha 2º1.jpg",
     aluno: "Yasmin Padilha",
     turma: "2ª Série 1",
     porcoes: "8 porções",
@@ -434,7 +434,7 @@ const bancoDeReceitas = {
   // 39. Bolo de banana de caneca
   "bolo-banana-caneca-aveia": {
     titulo: "Bolo de banana de caneca com aveia",
-    imagem: "",
+    imagem: "img_Comidas/Yuri José Varela 1º02.jpg",
     aluno: "Yuri José Varela",
     turma: "1ª Série 2",
     porcoes: "1 porção",
@@ -446,7 +446,7 @@ const bancoDeReceitas = {
   // 40. Pavê de morango com creme de castanhas
   "pave-morango-creme-castanhas": {
     titulo: "Pavê de morango com creme de castanhas",
-    imagem: "",
+    imagem: "img_Comidas/Yuri dos Santos de Souza 3º3.jpg",
     aluno: "Yuri dos Santos de Souza",
     turma: "3ª Série 3",
     porcoes: "não informado",
@@ -458,7 +458,7 @@ const bancoDeReceitas = {
   // 41. Omelete de grão-de-bico
   "omelete-grao-de-bico": {
     titulo: "Omelete de grão-de-bico",
-    imagem: "",
+    imagem: "img_Comidas/Davi Sousa Cardoso 3º1.jpg",
     aluno: "Davi Sousa Cardoso",
     turma: "3ª Série 1",
     porcoes: "não informado",
@@ -470,7 +470,7 @@ const bancoDeReceitas = {
   // 42. Bolinho natural de banana com coco e aveia
   "bolinho-banana-coco-aveia": {
     titulo: "Bolinho natural de banana com coco e aveia",
-    imagem: "",
+    imagem: "img_Comidas/Kerolin Bianca de Souza Moraes 1º03.jpg",
     aluno: "Kerolin Bianca de Souza Moraes",
     turma: "1ª Série 3",
     porcoes: "não informado",
@@ -541,7 +541,7 @@ const bancoDeReceitas = {
 
   "bolo-banana-carlos-daniel": {
     titulo: "Bolo de banana",
-    imagem: "",
+    imagem: "img_Comidas/Carlos Daniel dos Santos Pereira 3º1.jpg",
     aluno: "Carlos Daniel dos Santos Pereira",
     turma: "3ª Série 1",
     porcoes: "não informado",
@@ -607,7 +607,7 @@ const bancoDeReceitas = {
 
   "panqueca-banana-aveia-gabrielle-angeli": {
     titulo: "Panqueca de banana com aveia",
-    imagem: "",
+    imagem: "img_Comidas/Gabrielle Angeli 1ªserie2.jpg",
     aluno: "Gabrielle Angeli Zardo",
     turma: "1ª Série 4",
     porcoes: "2 porções",
@@ -706,7 +706,7 @@ const bancoDeReceitas = {
 
   "bolo-banana-aveia-nicolas-pires": {
     titulo: "Bolo de banana com aveia",
-    imagem: "",
+    imagem: "img_Comidas/Nicolas Pires 1º03.jpg",
     aluno: "Nicolas Pires",
     turma: "1ª Série 3",
     porcoes: "não informado",
@@ -728,7 +728,7 @@ const bancoDeReceitas = {
 
   "bolo-chocolate-low-carb-pedro": {
     titulo: "Bolo de chocolate low carb",
-    imagem: "",
+    imagem: "img_Comidas/Pedro Henrique Muniz 1º02.jpg",
     aluno: "Pedro Henrique Muniz de Oliveira",
     turma: "1ª Série 2",
     porcoes: "não informado",
